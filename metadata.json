@@ -1,0 +1,6 @@
+{
+  "name": "BalShiksha: Kids Learning Universe",
+  "description": "An inclusive, multi-language educational app for kids featuring interactive games, progressive levels, and accessibility support for visual and hearing impairments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
